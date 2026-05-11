@@ -1,0 +1,10 @@
+1 Soy el hijo con PID: 12514 
+2 Soy el hijo con PID: 12514 
+3 Soy el hijo con PID: 12514 
+4 Soy el hijo con PID: 12514 
+5 Soy el hijo con PID: 12514 
+6 Soy el hijo con PID: 12514 
+7 Soy el hijo con PID: 12514 
+8 Soy el hijo con PID: 12514 
+9 Soy el hijo con PID: 12514 
+10 Soy el hijo con PID: 12514 
