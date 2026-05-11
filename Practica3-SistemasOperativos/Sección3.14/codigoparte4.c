@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <sys/wait.h>
-
+ 
 #define NUM_PROC 3
 
 void hijoHasAlgo(int numero);
