@@ -18,6 +18,6 @@ En esta nueva ejecucion el proceso padre 6927 espero a que su hijo 6930 termine,
 
 ## Demostración
 
-- "Huerfano.JPG" :Comportamiento original
+ ![](Huerfano.JPG) :Comportamiento original
 
-- "Padre.JPG"    : Comportamiento con wait(NULL) incorporado
+ ![](Padre.JPG)    : Comportamiento con wait(NULL) incorporado
